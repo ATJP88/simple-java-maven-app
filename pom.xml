@@ -27,7 +27,7 @@
         <configuration>
           <verbose>true</verbose>
           <fork>true</fork>
-          <executable>https://github.com/jenkins-docs/simple-java-maven-app.git/javac</executable>
+          <executable>C:\Program Files\Java\jdk1.8.0_311\bin/javac</executable>
         </configuration>
       <plugins>
         <plugin>
