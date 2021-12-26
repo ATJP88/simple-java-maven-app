@@ -20,8 +20,8 @@
   </properties>
   <build>
     <pluginManagement>
-      <plugin>
-        <plugins>
+      <plugins>
+        <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
@@ -30,7 +30,7 @@
           <fork>true</fork>
           <executable>C:\Program Files\Java\jdk1.8.0_311\bin/javac</executable>
         </configuration>
-      <plugins>
+      <plugin>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
